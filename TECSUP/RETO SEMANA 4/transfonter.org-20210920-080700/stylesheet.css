@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Be Vietnam Pro';
+    src: url('BeVietnamPro-ExtraLight.woff2') format('woff2'),
+        url('BeVietnamPro-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
